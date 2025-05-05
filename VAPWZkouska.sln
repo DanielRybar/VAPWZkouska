@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Elektrarna", "Elektrarna\El
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PictureBoxDemo", "PictureBoxDemo\PictureBoxDemo.csproj", "{A890E1BD-7321-4735-9113-6B50967C3413}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Videostop", "Videostop\Videostop.csproj", "{3DFB8FBF-1A55-4C54-8A50-0EA660F636DC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{A890E1BD-7321-4735-9113-6B50967C3413}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A890E1BD-7321-4735-9113-6B50967C3413}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A890E1BD-7321-4735-9113-6B50967C3413}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3DFB8FBF-1A55-4C54-8A50-0EA660F636DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3DFB8FBF-1A55-4C54-8A50-0EA660F636DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3DFB8FBF-1A55-4C54-8A50-0EA660F636DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3DFB8FBF-1A55-4C54-8A50-0EA660F636DC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
