@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PictureBoxDemo", "PictureBo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Videostop", "Videostop\Videostop.csproj", "{3DFB8FBF-1A55-4C54-8A50-0EA660F636DC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SemaforII", "SemaforII\SemaforII.csproj", "{BD36C3CD-443E-41AE-A67D-A072B004A9F0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{3DFB8FBF-1A55-4C54-8A50-0EA660F636DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3DFB8FBF-1A55-4C54-8A50-0EA660F636DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3DFB8FBF-1A55-4C54-8A50-0EA660F636DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BD36C3CD-443E-41AE-A67D-A072B004A9F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD36C3CD-443E-41AE-A67D-A072B004A9F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD36C3CD-443E-41AE-A67D-A072B004A9F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD36C3CD-443E-41AE-A67D-A072B004A9F0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
